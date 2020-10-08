@@ -1,6 +1,5 @@
 ## XiaoxianMa
-[![Twitter Badge](https://img.shields.io/badge/-@KunalRaghav-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_Kunal_Raghav_)](https://twitter.com/_Kunal_Raghav_) [![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunalraghav/)](https://www.linkedin.com/in/kunalraghav/) [![Medium Badge](https://img.shields.io/badge/-@KunalRaghav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@KunalRaghav/)](https://medium.com/@KunalRaghav/)
-[![Gmail Badge](https://img.shields.io/badge/-kraghav123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kraghav123@gmail.com)](mailto:kraghav123@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-xiaoxianma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weidong-sun/)](https://www.linkedin.com/in/weidong-sun/) [![Gmail Badge](https://img.shields.io/badge/-sunweidong90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunweidong90@gmail.com)](mailto:sunweidong90@gmail.com)
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
