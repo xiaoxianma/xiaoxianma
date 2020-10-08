@@ -1,8 +1,7 @@
 ## Hey there! I'm XiaoxianMa <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-![age](https://img.shields.io/badge/age-24-blue)
-![focus](https://img.shields.io/badge/focus-backend-brightgreen)
-![living](https://img.shields.io/badge/living-shanghai-3c9)
-![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
+![age](https://img.shields.io/badge/age-30s-blue?style=flat-square)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen?style=flat-square)
+![living](https://img.shields.io/badge/living-chicago-3c9?style=flat-square)
 [![Linkedin Badge](https://img.shields.io/badge/-Weidong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weidong-sun/)](https://www.linkedin.com/in/weidong-sun/) [![Gmail Badge](https://img.shields.io/badge/-sunweidong90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunweidong90@gmail.com)](mailto:sunweidong90@gmail.com)
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
