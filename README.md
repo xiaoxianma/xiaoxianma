@@ -9,7 +9,7 @@
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; Learning more about Data Science.
-- ⚡ Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
+- ⚡ &nbsp; Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
