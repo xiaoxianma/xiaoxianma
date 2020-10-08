@@ -7,7 +7,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; Learning more about Open Source and Data Science.
-- 👯 If you have any projects you would like to colaborate, reach out to me.
+- 👯 &nbsp; If you have any projects you would like to colaborate, reach out to me.
 - ⚡ &nbsp; Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
