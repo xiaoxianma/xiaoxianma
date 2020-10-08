@@ -44,6 +44,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/weidong-sun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/weidong-sun/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Weidong%20Sun-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:sunweidong90@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sunweidong90@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
