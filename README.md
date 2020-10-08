@@ -1,7 +1,7 @@
 <h2> Hey there! I'm XiaoxianMa👋</h2>
 [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weidong-sun//)](https://www.linkedin.com/in/weidong-sun/) [![Gmail Badge](https://img.shields.io/badge/-sunweidong90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunweidong90@gmail.com)](mailto:sunweidong90@gmail.com)  
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/Isha_1321)](https://twitter.com/Isha_1321)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishagupta20//)](https://www.linkedin.com/in/ishagupta20/) [![Gmail Badge](https://img.shields.io/badge/-ishagupta2103@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:ishagupta2103@gmail.com)
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
