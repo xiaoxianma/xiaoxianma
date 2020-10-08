@@ -38,7 +38,7 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira)
+  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=blue)
   ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 <br/>
