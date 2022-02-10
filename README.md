@@ -2,8 +2,7 @@
 ![age](https://img.shields.io/badge/age-18-blue?style=flat-square)
 ![focus](https://img.shields.io/badge/focus-fullstack-brightgreen?style=flat-square)
 ![living](https://img.shields.io/badge/living-Chicago-3c9?style=flat-square)
-[![Linkedin Badge](https://img.shields.io/badge/-Weidong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/weidong-sun/)](https://www.linkedin.com/in/weidong-sun/)
-[![Gmail Badge](https://img.shields.io/badge/-sunweidong90@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sunweidong90@gmail.com)](mailto:sunweidong90@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-wdsun1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wdsun1@gmail.com)](mailto:wdsun1@gmail.com)
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
