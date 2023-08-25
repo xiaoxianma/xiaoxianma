@@ -1,17 +1,13 @@
 ## Hey there! I'm XiaoxianMa <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ![age](https://img.shields.io/badge/age-00-blue?style=flat-square)
-![focus](https://img.shields.io/badge/focus-mindsets-brightgreen?style=flat-square)
+![focus](https://img.shields.io/badge/focus-mindset-brightgreen?style=flat-square)
 ![living](https://img.shields.io/badge/living-Chicago-3c9?style=flat-square)
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 <h3> 👨🏻‍💻 &nbsp;coder</h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🌱 &nbsp; I'm currently learning Data Science | Open Source.
-- 👯 &nbsp; I'm looking to collaborate on Machine Learning and Web Development Projects.
-- ⚡ &nbsp; Fun fact: Currently using **Machine Learning** to predict if I will pursue Machine Learning.
-- 💬 &nbsp; Ask me about anything, I am happy to help.
+- 🤔 &nbsp; Finding balance between coding and non-coding skills
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
