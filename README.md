@@ -5,7 +5,7 @@
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<h3> 👨🏻‍💻 &nbsp;Full-Stack Developer & Open Source Enthusiast</h3>
+<h3> 👨🏻‍💻 &nbsp;coder</h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🌱 &nbsp; I'm currently learning Data Science | Open Source.
@@ -17,6 +17,8 @@
 
 - 💻 &nbsp;
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c++)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -31,15 +33,6 @@
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains)
-  ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=blue)
-  ![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
 
 <br/>
 
