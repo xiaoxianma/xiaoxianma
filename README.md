@@ -1,6 +1,6 @@
 ## Hey there! I'm XiaoxianMa <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 ![age](https://img.shields.io/badge/age-00-blue?style=flat-square)
-![focus](https://img.shields.io/badge/focus-fullstack-brightgreen?style=flat-square)
+![focus](https://img.shields.io/badge/focus-mindsets-brightgreen?style=flat-square)
 ![living](https://img.shields.io/badge/living-Chicago-3c9?style=flat-square)
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
