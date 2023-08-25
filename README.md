@@ -7,7 +7,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;coder</h3>
 
-- 🤔 &nbsp; Finding balance between coding and non-coding skills
+- 🤔 &nbsp; Finding a balance between coding and non-coding skills
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
