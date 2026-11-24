@@ -1,15 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="364" viewBox="0 0 1080 364" role="img" aria-labelledby="title desc">
-<title id="title">ALL IN INFERENCE</title><desc id="desc">An illustrative inference trace from chunked prefill to a stream of output tokens.</desc>
-<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0B1423"/><stop offset="1" stop-color="#142136"/></linearGradient><linearGradient id="mint"><stop stop-color="#4AD4BD"/><stop offset="1" stop-color="#A6FBDD"/></linearGradient><pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#8DABC8" stroke-opacity=".12"/></pattern></defs>
-<rect x="1" y="1" width="1078" height="362" rx="23" fill="url(#bg)" stroke="#42566F" stroke-width="2"/>
-<rect x="675" y="76" width="358" height="217" rx="12" fill="url(#grid)"/>
-<path d="M48 65H1032M48 304H1032" stroke="#435670"/>
-<g font-family="DejaVu Sans Mono,monospace" font-size="15" letter-spacing="1.65" fill="#B2C4DA"><circle cx="54" cy="38" r="4.5" fill="#8BF1D2"/><text x="69" y="44">@XIAOXIANMA</text><text x="1032" y="44" text-anchor="end">INFERENCE SYSTEMS</text><text x="48" y="337">PROFILE. FIX. VERIFY.</text><text x="1032" y="337" text-anchor="end">OPEN SOURCE / SGLANG</text></g>
-<g font-family="DejaVu Sans,Arial,sans-serif" font-weight="bold" font-size="80" letter-spacing="-3"><text x="44" y="164" fill="#F4F8FE">ALL IN</text><text x="44" y="246" fill="#96F4D8">INFERENCE</text></g>
-<g font-family="DejaVu Sans Mono,monospace" font-size="13" letter-spacing="1" fill="#BACCE1">
-<text x="690" y="109">01 / CHUNKED PREFILL</text><path d="M690 140H1017" stroke="#627C98" stroke-dasharray="3 5"/>
-<rect x="690" y="124" width="74" height="32" rx="4" fill="#213E4B" stroke="#558E85"/><rect x="774" y="124" width="74" height="32" rx="4" fill="url(#mint)"/><rect x="858" y="124" width="74" height="32" rx="4" fill="#17283D" stroke="#6C8098" stroke-dasharray="4 3"/><rect x="942" y="124" width="74" height="32" rx="4" fill="#17283D" stroke="#6C8098" stroke-dasharray="4 3"/>
-<path d="M811 158V179Q811 188 820 188H951Q960 188 960 197V210m-4-5 4 5 4-5" fill="none" stroke="#8BF1D2" stroke-width="1.5"/>
-<text x="690" y="193">KV CACHE</text><text x="690" y="225">02 / DECODE STREAM</text><path d="M690 249H1016" stroke="#526983"/>
-<g fill="#FFD083"><rect x="690" y="239" width="19" height="20" rx="3"/><rect x="722" y="239" width="19" height="20" rx="3"/><rect x="754" y="239" width="19" height="20" rx="3"/><rect x="786" y="239" width="19" height="20" rx="3"/><rect x="818" y="239" width="19" height="20" rx="3"/><rect x="850" y="239" width="19" height="20" rx="3"/><rect x="882" y="239" width="19" height="20" rx="3"/></g>
-<g fill="#829AB6"><circle cx="926" cy="249" r="2.4"/><circle cx="940" cy="249" r="2.4"/><circle cx="954" cy="249" r="2.4"/></g><text x="1017" y="280" font-size="11" text-anchor="end">ILLUSTRATIVE TRACE</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="234" viewBox="0 0 1080 234" role="img" aria-labelledby="title">
+  <title id="title">ALL IN INFERENCE</title>
+  <rect x="1" y="1" width="1078" height="232" rx="12" fill="#151817" stroke="#3D453F" stroke-width="2"/>
+  <path d="M54 174H1026" stroke="#3D453F"/>
+  <path d="M54 174H143" stroke="#A6CCB2" stroke-width="3"/>
+  <text x="50" y="132" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="82" letter-spacing="-3"><tspan fill="#F0F1EA">ALL IN </tspan><tspan fill="#A6CCB2">INFERENCE</tspan></text>
+</svg>
